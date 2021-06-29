@@ -2,6 +2,8 @@
 # PARTIEL-DOCKER-1469
 In this exam, we have to deploy and repair a docker plateform
 
+<br>
+
 ## Installation
 
 ### Subject
@@ -18,7 +20,7 @@ Download the .tar archive (of the student 1469) which is located in classrooms.
 
 You can untar the rendu folders or navigate in the folders already uncompressed.
 
-Then you just have to navigate in folders rendu_v1/ rendu_v2/ rendu_v3/
+Then you just have to navigate in folders <b>rendu_v1/ rendu_v2/ rendu_v3/</b>
 
 <br>
 
@@ -35,7 +37,7 @@ This script starts containers and build your docker plateform automatically for 
 
 <br>
 
-You can also find in the rendu_v* folders nearly the same script.
+You can also find in the <b>rendu_v*</b> folders nearly the same script.
 
 <br>
 
